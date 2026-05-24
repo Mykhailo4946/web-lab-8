@@ -1,4 +1,4 @@
-# lab-8
+# Lab-8 Streams in Node.js
 
 ## Виконані вправи
 1. **STREAM FILE TO RESPONSE** (`stream_response.js`) - Маршрут `GET /file`. Створення Readable Stream за допомогою `fs.createReadStream()` для прямої передачі локального файлу у HTTP-відповідь через `pipe`.
